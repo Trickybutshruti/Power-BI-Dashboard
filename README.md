@@ -26,8 +26,8 @@ The dataset (`Amazon_Prime_Titles.csv`) contains the following key fields:
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/<your-username>/amazon-prime-dashboard.git
-   cd amazon-prime-dashboard
+   git clone https://https://github.com/Trickybutshruti/Power-BI-Dashboard
+   cd Power-BI-Dashboard
    ```
 
 2. **Download Power BI Desktop**  
